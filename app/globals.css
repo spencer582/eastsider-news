@@ -30,3 +30,6 @@ footer{background:#f3f6ef;border-top:1px solid var(--line);padding-top:45px}.foo
 .nav-inner>nav>a[aria-current=location]:after{content:'';position:absolute;height:3px;background:var(--accent);bottom:-1px;left:0;right:0}.mobile-navigation>a[aria-current]{color:var(--forest);font-weight:800;background:var(--sage)}.story-card-text .story-info{padding-top:9px}.front-secondary .story-card-text h3{font-size:31px;line-height:1.12}.front-secondary .story-card-text .story-info>p{font-size:13px;line-height:1.8}
 @media(max-width:960px){.navigation .nav-inner>nav>a{display:none}.navigation .nav-inner>nav>a.mobile-priority{display:flex}.mobile-navigation>a{overflow-wrap:break-word}}
 @media(max-width:680px){.mobile-navigation:not([hidden]){grid-template-columns:repeat(2,minmax(0,1fr));padding:12px 18px}.front-secondary .story-card-text h3{font-size:29px}}
+
+/* Let link wording, colour and hover states carry the editorial navigation. */
+.lucide-arrow-up-right,.lucide-external-link{display:none}
