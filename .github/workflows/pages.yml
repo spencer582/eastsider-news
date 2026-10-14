@@ -8,7 +8,7 @@ on:
     - cron: '17,47 * * * *'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: eastsider-pages
@@ -20,15 +20,6 @@ jobs:
     steps:
       - name: Check out the website
         uses: actions/checkout@v4
-      - name: Import the prepared website source
-        if: hashFiles('source-migration.zip') != ''
-        run: |
-          echo "2516bd6ae7db358a1c082df230fa7184d3c1556bfb092902b6a11703a40dd2c3  source-migration.zip" | sha256sum -c -
-          unzip -o source-migration.zip
-          rm source-migration.zip
-          git add --all
-          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Import complete Eastsider website source"
-          git push
       - name: Use Node
         uses: actions/setup-node@v4
         with:
