@@ -1,0 +1,211 @@
+{
+  "checkedAt": "2026-10-13",
+  "method": "Official website pages, live WordPress REST API posts and featured-media records, live theme CSS, and visual inspection of local seed images. No checkout files were changed.",
+  "brand": {
+    "desktopLogoUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2025/06/en-banner.jpg",
+    "mobileLogoUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2020/09/eastsider-banner-5-e1730245066126.jpg",
+    "exactThemeAccent": "#0cada7",
+    "themeCssSource": "https://www.eastsidernews.org.au/wp-content/themes/salient/css/salient-dynamic-styles.css?ver=70907",
+    "representativeLogoSamples": {
+      "indigo": "#252062",
+      "sunYellow": "#ffdd00",
+      "green": "#75c25c",
+      "turquoise": "#2db69c"
+    },
+    "paletteNote": "Logo samples are representative pixels from a JPEG gradient, not declared flat brand swatches. The live CSS accent is exact. Main visual elements are dark indigo Eastsider lettering, white News lettering, a yellow sun, and green/turquoise background.",
+    "recommendation": "Lead with green and turquoise, using deeper forest green for the masthead and principal surfaces and a restrained yellow sun detail. This follows Spencer’s direction on 13 October 2026 to restore the green identity. The logo pixel samples above remain a record of the original source."
+  },
+  "identity": {
+    "organisation": "Independent Community News Group Incorporated",
+    "businessModel": "Free, independent, community based and not-for-profit; funded by donations and advertising.",
+    "firstEdition": "September 2020",
+    "editionFrequency": "Every two months",
+    "coverage": "Boroondara, Whitehorse and adjoining areas, described on the homepage as Kew to Croydon.",
+    "editorialMethod": "Volunteer editorial committee assesses contributions before publication. Community contributors include regular writers and citizen journalists. Professional journalists are not employed according to the published Editorial Values page.",
+    "philosophy": "Local participation, diverse community voices, respectful evidence based discussion, clear separation of opinion from fact, accountability, privacy, and editorial independence from advertising.",
+    "authorInformation": "Published guidelines request the author's name and suburb. The follow-up email address is not for publication. A headshot and short biography are optional.",
+    "submissionEmail": "eastsidernews1@gmail.com",
+    "subscriptionPurpose": "Free alerts for new editions and reminders about contributions. Do not invent a daily or weekly newsletter promise.",
+    "sources": [
+      "https://www.eastsidernews.org.au/",
+      "https://www.eastsidernews.org.au/about-us/",
+      "https://www.eastsidernews.org.au/editorial-values/",
+      "https://www.eastsidernews.org.au/guidelines/",
+      "https://www.eastsidernews.org.au/subscribe/"
+    ]
+  },
+  "stories": [
+    {
+      "id": "eastsider-20179",
+      "title": "Maranoa Botanic Gardens achieves 100 years",
+      "author": "Priya Mohandoss",
+      "sourceUrl": "https://www.eastsidernews.org.au/local-government/boroondara/maranoa-botanic-gardens-achieves-100-years/",
+      "publishedAt": "2026-08-26T10:36:27+10:00",
+      "modifiedAt": "2026-09-23T08:13:17+10:00",
+      "image": "/images/20179.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2026/08/Maranoa-gardens.jpg",
+      "imageAlt": "An entrance to Maranoa Botanic Gardens, with a sign, open gates and a tree-lined path",
+      "imageCredit": "City of Boroondara via Eastsider News",
+      "imageCreditVerified": true,
+      "creditEvidence": "Current WordPress post content states that the opening image is taken from the City of Boroondara website.",
+      "notes": [
+        "The published article announces a planned 19 September 2026 celebration. Do not imply a newly reported post-event account.",
+        "The separate maranoa-gate.webp is a different photograph. It is credited to Philip Mallis, CC BY-SA 2.0, via Wikimedia Commons and needs that attribution if used."
+      ]
+    },
+    {
+      "id": "eastsider-20334",
+      "title": "Bin basket trial for bottles and cans in Boroondara",
+      "author": "Priya Mohandoss",
+      "sourceUrl": "https://www.eastsidernews.org.au/uncategorized/bin-basket-trial-for-bottles-and-cans-in-boroondara/",
+      "publishedAt": "2026-09-23T08:31:06+10:00",
+      "modifiedAt": "2026-09-23T08:39:54+10:00",
+      "image": "/images/20334.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2026/09/Bin-Recycling-e1790116592582.jpg",
+      "imageAlt": "A collection of clear plastic drink bottles",
+      "imageCredit": null,
+      "imageCreditVerified": false,
+      "creditEvidence": "No image creator or image source is stated in the article body or featured-media caption, description or alt text.",
+      "notes": [
+        "Existing image is only 150 pixels wide and unsuitable as a large hero.",
+        "The source says 200 baskets are being rolled out, not that 200 are already installed. It says the trial finishes on 31 December."
+      ]
+    },
+    {
+      "id": "eastsider-20206",
+      "title": "Native plants, revegetation, river renewal",
+      "author": "Mark Landmann and Sarah Brennan",
+      "sourceUrl": "https://www.eastsidernews.org.au/uncategorized/native-plants-and-revegetation/",
+      "publishedAt": "2026-09-23T14:18:38+10:00",
+      "modifiedAt": "2026-09-25T09:08:36+10:00",
+      "image": "/images/20206.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2026/08/Revegetating-1.jpg",
+      "imageAlt": "Four people working together to revegetate a nature strip beside a footpath",
+      "imageCredit": "KooyongKoot Alliance",
+      "imageCreditVerified": true,
+      "creditEvidence": "The article explicitly states Source of featured image: KooyongKoot Alliance https://kka.org.au/.",
+      "notes": [
+        "This page contains separate contributions from Mark Landmann and Sarah Brennan. A generic contributor byline loses that credit.",
+        "Sarah Brennan is identified as convenor of the Lighter Footprints Forests Working Group. Do not infer a biography for Mark from this article alone."
+      ]
+    },
+    {
+      "id": "eastsider-19707",
+      "title": "Geoff Dossetor: renowned local artist",
+      "author": "Eastsider News",
+      "sourceUrl": "https://www.eastsidernews.org.au/culture-and-creativity/arts/geoff-dossetor-renowned-local-artist/",
+      "publishedAt": "2026-06-22T11:37:16+10:00",
+      "modifiedAt": "2026-06-30T10:43:59+10:00",
+      "image": "/images/19707.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2026/06/Geoff-Dossetor-scaled-e1782092405995.jpeg",
+      "imageAlt": "Geoff Dossetor seated in front of a display of paintings",
+      "imageCredit": null,
+      "imageCreditVerified": false,
+      "creditEvidence": "No photographer or image source is stated for the featured portrait. Eastsider News is the site byline, with no named writer in the article body.",
+      "notes": [
+        "The exhibition ran from 17 June to 25 July 2026 and is past. Do not frame it as upcoming.",
+        "Keep a tall crop or subject-aware crop so the portrait is not cut through the face."
+      ]
+    },
+    {
+      "id": "eastsider-19655",
+      "title": "ResourceSmart Schools – Sustainability Award winners",
+      "author": "Sustainability Victoria",
+      "sourceUrl": "https://www.eastsidernews.org.au/environment/learning-about-the-environment/resourcesmart-schools-sustainability-award-winners/",
+      "publishedAt": "2026-06-19T15:02:16+10:00",
+      "modifiedAt": "2026-06-19T15:07:21+10:00",
+      "image": "/images/19655.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2025/11/Box-Hill-Sustainability-e1781845385600.jpg",
+      "imageAlt": "Box Hill High School students planting seedlings in a raised garden bed",
+      "imageCredit": null,
+      "imageCreditVerified": false,
+      "creditEvidence": "Sustainability Victoria is the contributor byline, but no distinct credit is given for the featured image.",
+      "notes": [
+        "The original contributor byline misspells Sustainability as Sustainabilty. Correcting the organisation name is supported by the rest of the article.",
+        "The source gives Wednesday, 11 June for a 2026 award ceremony, but 11 June 2026 was Thursday. Avoid importing the contradictory date detail without separate verification."
+      ]
+    },
+    {
+      "id": "eastsider-19649",
+      "title": "A Vision for Cemeteries in Perpetuity",
+      "author": "Sal Dugan",
+      "sourceUrl": "https://www.eastsidernews.org.au/local-neighbourhoods/a-vision-for-cemeteries-in-perpetuity/",
+      "publishedAt": "2026-06-19T14:38:28+10:00",
+      "modifiedAt": "2026-06-19T14:49:35+10:00",
+      "image": "/images/19649.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2024/05/Cemetery-2.jpg",
+      "imageAlt": "A landscaped cemetery garden with trees, lawn and a stone memorial building",
+      "imageCredit": null,
+      "imageCreditVerified": false,
+      "creditEvidence": "The article credits Sal Dugan for a separate portrait of Dr Isabel Lasala, not for the featured garden photograph.",
+      "notes": [
+        "Do not transfer Sal Dugan's credit for the inline portrait to the featured photograph.",
+        "The story discusses a proposed approach to cemetery landscapes, not a council-approved redevelopment."
+      ]
+    },
+    {
+      "id": "eastsider-19623",
+      "title": "Emus and Kangaroos Roam Among Us",
+      "author": "Elaine Hopper for ACF Rosellas",
+      "sourceUrl": "https://www.eastsidernews.org.au/environment/emus-and-kangaroos-roam-among-us/",
+      "publishedAt": "2026-06-17T09:53:36+10:00",
+      "modifiedAt": "2026-07-17T17:47:58+10:00",
+      "image": "/images/19623.webp",
+      "imageSourceUrl": "https://www.eastsidernews.org.au/wp-content/uploads/2025/11/Emus-and-kangaroos.jpg",
+      "imageAlt": "Two young visitors watching an emu on a woodland path at Nangak Tamboree Wildlife Sanctuary",
+      "imageCredit": null,
+      "imageCreditVerified": false,
+      "creditEvidence": "The article credits its writer and ACF group, but the featured photograph has no distinct creator or source credit.",
+      "notes": [
+        "The outing was on 6 June 2026. It is not an upcoming event.",
+        "Nangak Tamboree Wildlife Sanctuary is at La Trobe University in Bundoora. The ACF group is based in Chisholm and Menzies. Do not label the sanctuary itself as an eastern suburb."
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-14",
+      "time": "8 pm",
+      "title": "Kew Historical Society. 2026 Dickinson Lecture",
+      "venue": "Just Theatre, Kew Court House",
+      "address": "188 High Street, Kew",
+      "sourceUrl": "https://www.eastsidernews.org.au/event/kew-historical-society-2026-dickinson-lecture/",
+      "verified": true
+    },
+    {
+      "date": "2026-10-20",
+      "time": "7.30 pm to 8.45 pm",
+      "title": "Box Hill and District Scottish Society – Scottish Country Dance: Casual Try Out Intro",
+      "venue": "Koonung Heights Uniting Church",
+      "address": "Corner of Belmore Road and Winfield Street, Balwyn North",
+      "sourceUrl": "https://www.eastsidernews.org.au/event/box-hill-and-district-scottish-society-scottish-country-dance/",
+      "verified": true
+    },
+    {
+      "date": "2026-10-22",
+      "time": "7 pm to 9 pm",
+      "title": "Lighter Footprints Candidates Forum – Kew",
+      "venue": "Kew High School Theatre",
+      "address": "826A High Street, Kew East",
+      "sourceUrl": "https://www.eastsidernews.org.au/event/lighter-footprints-candidate-forum/",
+      "verified": true
+    },
+    {
+      "date": "2026-10-24",
+      "time": "10 am to 2 pm",
+      "title": "Rehome’s Spring Community Market",
+      "venue": "Camberwell Park",
+      "address": "340 Camberwell Road, Camberwell",
+      "sourceUrl": "https://www.eastsidernews.org.au/event/spring-community-market/",
+      "verified": true
+    }
+  ],
+  "implementationRecommendations": [
+    "Use original headlines and meaningful source links for archive cards. Keep supplied articles in their authors' voices. Do not present machine-written seed summary bodies under the original author's byline.",
+    "Provide real author pages with verified names and linked contributions. Leave a missing biography or portrait absent until supplied, instead of inventing credentials.",
+    "Use a clear date and archive context for older articles, and calculate upcoming events in Australia/Melbourne. October 2026 Melbourne times use UTC+11.",
+    "Only populate photographer or image-credit fields where supported. For uncredited source images, a provenance link to the original article is accurate; an invented ownership credit is not.",
+    "Maintain separate content types for news, opinion, event listings and advertising so the community's contributors retain their distinct roles.",
+    "Keep editorial review before publication, including author name, consented biography, source links, image credit and rights, original publication date and meaningful correction history."
+  ]
+}

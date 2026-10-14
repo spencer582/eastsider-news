@@ -1,0 +1,155 @@
+{
+  "checkedDate": "2026-10-13",
+  "timezone": "Australia/Melbourne",
+  "offsetForListedOccurrences": "+11:00",
+  "events": [
+    {
+      "title": "Reducing Plastics & Beeswax Wraps Workshop",
+      "municipality": "Maroondah",
+      "startDate": "2026-10-16T10:00:00+11:00",
+      "endDate": "2026-10-16T11:30:00+11:00",
+      "venue": "Glen Park Community Centre",
+      "streetAddress": "30 Glen Park Road",
+      "suburb": "Bayswater North",
+      "postcode": "3153",
+      "cost": "Free",
+      "booking": "Bookings essential. Council page displays a booking link and does not state sold out. Availability was not tested through checkout.",
+      "sourceUrl": "https://www.maroondah.vic.gov.au/Residents-property/Waste-recycling/Waste-reduction-community-education/Waste-events/Reducing-Plastics-Beeswax-Wraps-Workshop",
+      "sourceType": "Official council event page, read through search and direct live HTML",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "One listed session. Do not invent further occurrences."
+    },
+    {
+      "title": "Young Explorers: Wurundjeri Cultural Awareness Walk for families and kids.",
+      "municipality": "Manningham",
+      "startDate": "2026-10-17T09:30:00+11:00",
+      "endDate": "2026-10-17T12:00:00+11:00",
+      "venue": "Currawong Bush Park",
+      "streetAddress": "Reynolds Road",
+      "suburb": "Doncaster East",
+      "postcode": "3109",
+      "cost": "Free",
+      "booking": "Registration through the organiser's Eventbrite page. Live event structured data lists zero-price tickets as InStock. Availability can change.",
+      "sourceUrl": "https://www.eventbrite.com.au/e/young-explorers-wurundjeri-cultural-awareness-walk-for-families-and-kids-tickets-1996767825317",
+      "additionalSourceUrl": "https://www.riverfest.org.au/",
+      "sourceType": "Organiser's ticket page, linked from official Riverfest programme. Live Eventbrite structured data verifies date, time, venue, address and zero price.",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "Single Riverfest event. The source requires arrival ten minutes early and warns of steep or slippery sections and cancellation in extreme weather or a total fire ban. Exact numbered meeting address is not supplied, so retain the published Reynolds Road address."
+    },
+    {
+      "title": "Drop-in Basketry Demonstrations",
+      "municipality": "Whitehorse",
+      "startDate": "2026-10-17T13:00:00+11:00",
+      "endDate": "2026-10-17T15:00:00+11:00",
+      "venue": "Whitehorse Art Gallery, Box Hill Town Hall",
+      "streetAddress": "1022 Whitehorse Road",
+      "suburb": "Box Hill",
+      "postcode": "3128",
+      "cost": "Free",
+      "booking": "No bookings required",
+      "sourceUrl": "https://www.creativewhitehorse.vic.gov.au/whats-on/drop-basketry-demonstrations",
+      "addressSourceUrl": "https://creativewhitehorse.vic.gov.au/getting-whitehorse-art-gallery-and-box-hill-town-hall",
+      "sourceType": "Official Creative Whitehorse event page and official venue directions",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "The page lists two discrete sessions, 3 October and 17 October. Only the 17 October session is forthcoming. It is not a daily event spanning those dates."
+    },
+    {
+      "title": "Spring Festival",
+      "municipality": "Whitehorse",
+      "startDate": "2026-10-18T10:00:00+11:00",
+      "endDate": "2026-10-18T16:00:00+11:00",
+      "venue": "Whitehorse Civic Centre Precinct and The Round",
+      "streetAddress": "399 Whitehorse Road",
+      "suburb": "Nunawading",
+      "postcode": "3131",
+      "cost": "Free entry, rides and many activities. Food, drinks and purchases are at the visitor's own cost.",
+      "booking": "No booking or registration required",
+      "sourceUrl": "https://www.creativewhitehorse.vic.gov.au/spring-festival",
+      "additionalSourceUrl": "https://yoursay.whitehorse.vic.gov.au/spring-festival",
+      "sourceType": "Official Creative Whitehorse event page and council consultation site",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "Annual festival, but only the announced 2026 occurrence is verified. Do not create subsequent yearly dates automatically."
+    },
+    {
+      "title": "Tunstall Square Market",
+      "municipality": "Manningham",
+      "startDate": "2026-10-25T08:00:00+11:00",
+      "endDate": "2026-10-25T13:00:00+11:00",
+      "venue": "Tunstall Square Shopping Centre",
+      "streetAddress": "Corner of Doncaster Road and Tunstall Road",
+      "suburb": "Doncaster East",
+      "postcode": "3109",
+      "cost": null,
+      "costNote": "The live organiser page does not state a visitor entry charge. Its $30 price is for stallholders, not visitors. The council's indexed staging listing says Free, but production could not be read, so visitor entry is deliberately left unspecified here.",
+      "booking": "Stallholders book separately. The source does not state a visitor booking requirement.",
+      "sourceUrl": "https://warrandytedonvalerotary.org.au/tunstall/",
+      "sourceType": "Official market organiser. Date derived from the published last-Sunday recurrence, independently corroborated by the council's indexed event listing.",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "The organiser states the last Sunday monthly from February to November, giving 25 October and 29 November in 2026. Its page contradicts itself about December, with one section excluding it and another describing an extra first-Sunday market. Do not create a December occurrence without confirmation."
+    },
+    {
+      "title": "Maroondah Festival 2026",
+      "municipality": "Maroondah",
+      "startDate": "2026-11-08T10:00:00+11:00",
+      "endDate": "2026-11-08T16:00:00+11:00",
+      "venue": "Town Park and Civic Square",
+      "streetAddress": "20 Civic Square",
+      "suburb": "Croydon",
+      "postcode": "3136",
+      "cost": "Free entry",
+      "booking": "No visitor booking requirement is stated on the council event page. Do not claim all paid attractions, food or rides are free.",
+      "sourceUrl": "https://www.maroondah.vic.gov.au/Explore/Things-to-see-and-do-in-Maroondah/Maroondah-Festival/Maroondah-Festival",
+      "additionalSourceUrl": "https://www.maroondah.vic.gov.au/Explore/Things-to-see-and-do-in-Maroondah/Maroondah-Festival",
+      "sourceType": "Official council event page, read through search and direct live HTML",
+      "checkedDate": "2026-10-13",
+      "recurrenceCaveat": "Annual festival, but only the announced 2026 occurrence is verified. Do not create subsequent yearly dates automatically."
+    }
+  ],
+  "councilDirectories": [
+    {
+      "council": "Boroondara",
+      "title": "Find an event",
+      "url": "https://www.boroondara.vic.gov.au/events",
+      "verification": "Official directory successfully opened in the web tool on 13 October 2026."
+    },
+    {
+      "council": "Whitehorse",
+      "title": "What's on in Whitehorse",
+      "url": "https://www.whitehorse.vic.gov.au/whats-on-whitehorse",
+      "verification": "Official directory successfully opened in the web tool on 13 October 2026. The Festivals and Events page is a narrower hub, not the complete community calendar."
+    },
+    {
+      "council": "Manningham",
+      "title": "What's on",
+      "url": "https://www.manningham.vic.gov.au/events",
+      "verification": "Council's own Manningham Matters publication explicitly identifies this as its events calendar. Current production requests return HTTP 403, so its present HTML canonical tag could not be checked. Search indexes a staging mirror; do not link the staging domain in the public website.",
+      "supportingOfficialSourceUrl": "https://www.manningham.vic.gov.au/sites/default/files/2025-03/Manningham-Matters---February-2025.PDF"
+    },
+    {
+      "council": "Maroondah",
+      "title": "Events calendar",
+      "url": "https://www.maroondah.vic.gov.au/Explore/Things-to-see-and-do-in-Maroondah/Events-calendar",
+      "verification": "Official directory successfully read through direct live HTML. Its canonical link explicitly matches this URL. Web search also indexes it as the official council directory."
+    }
+  ],
+  "unavailableCandidates": [
+    {
+      "title": "Sunset with the Birds",
+      "date": "2026-10-17",
+      "status": "Booked out, waitlist only on the official Riverfest programme",
+      "sourceUrl": "https://www.riverfest.org.au/"
+    },
+    {
+      "title": "Meet the Mender: Group Therapy with Erin Lewis-Fitzgerald",
+      "date": "2026-10-21",
+      "status": "At capacity, waitlist only on the official council event page",
+      "sourceUrl": "https://www.maroondah.vic.gov.au/Residents-property/Waste-recycling/Waste-reduction-community-education/Waste-events/Meet-the-Mender-Group-Therapy-with-Erin-Lewis-Fitzgerald"
+    },
+    {
+      "title": "E-waste + more collection day",
+      "date": "2026-10-24",
+      "status": "Fully booked, waitlist only, and restricted to Maroondah residents",
+      "sourceUrl": "https://www.maroondah.vic.gov.au/Residents-property/Waste-recycling/How-to-dispose-of-unwanted-items/Electronic-waste-E-waste/E-waste-more-collection-day"
+    }
+  ]
+}

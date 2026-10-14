@@ -1,0 +1,2 @@
+import { indexingEnabled, siteOrigin } from "@/lib/content";
+export function GET(){const text=indexingEnabled()?`User-agent: *\nAllow: /\nDisallow: /newsroom\nDisallow: /api/\nDisallow: /search\nDisallow: /saved\n\nSitemap: ${siteOrigin()}/sitemap.xml\nSitemap: ${siteOrigin()}/news-sitemap.xml\n`:`User-agent: *\nDisallow: /\n`;return new Response(text,{headers:{"Content-Type":"text/plain; charset=utf-8","Cache-Control":"no-cache"}});}

@@ -1,0 +1,4 @@
+import { getPublicStories, siteOrigin } from "@/lib/content";
+import { xml } from "@/lib/xml";
+export const dynamic="force-dynamic";
+export async function GET(){const stories=(await getPublicStories()).filter(s=>!s.isSummary&&new Date(s.publishedAt).getTime()<=Date.now()&&Date.now()-new Date(s.publishedAt).getTime()<48*60*60*1000).slice(0,1000);return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">${stories.map(s=>`<url><loc>${xml(siteOrigin()+"/articles/"+s.slug)}</loc><news:news><news:publication><news:name>Eastsider News</news:name><news:language>en</news:language></news:publication><news:publication_date>${xml(s.publishedAt)}</news:publication_date><news:title>${xml(s.title)}</news:title></news:news></url>`).join("")}</urlset>`,{headers:{"Content-Type":"application/xml; charset=utf-8","Cache-Control":"no-cache"}});}

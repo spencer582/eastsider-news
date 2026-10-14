@@ -1,0 +1,2 @@
+import { ArrowRight } from "lucide-react";
+export default function NotFound(){return <main id="main" className="wrap content-page"><div className="empty-state"><span className="eyebrow">PAGE NOT FOUND</span><h1 style={{fontSize:46,margin:"20px 0"}}>Let’s get you back to the stories.</h1><p>This page may have moved, or the address may be incomplete.</p><a href="/news" className="button">Explore the latest stories <ArrowRight size={17}/></a></div></main>;}

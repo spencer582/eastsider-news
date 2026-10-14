@@ -1,0 +1,5 @@
+import { getPublicStories, siteOrigin } from "@/lib/content";
+import { storyUrl } from "@/lib/types";
+import { xml } from "@/lib/xml";
+export const dynamic="force-dynamic";
+export async function GET(){const stories=(await getPublicStories()).slice(0,30);return new Response(`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eastsider News</title><link>${xml(siteOrigin())}</link><description>Independent community news for Melbourne’s eastern suburbs.</description><language>en-au</language><atom:link href="${xml(siteOrigin())}/feed.xml" rel="self" type="application/rss+xml"/>${stories.map(s=>`<item><title>${xml(s.title)}</title><link>${xml(new URL(storyUrl(s),siteOrigin()).href)}</link><guid isPermaLink="true">${xml(new URL(storyUrl(s),siteOrigin()).href)}</guid><description>${xml(s.summary)}</description><pubDate>${new Date(s.publishedAt).toUTCString()}</pubDate><category>${xml(s.category)}</category></item>`).join("")}</channel></rss>`,{headers:{"Content-Type":"application/rss+xml; charset=utf-8","Cache-Control":"no-cache"}});}
